@@ -8,7 +8,7 @@ public class Throw {
             System.out.println("Eligible for voting");
     }
     public static void main(String[] args) {
-        Throw obj1=new Throw();
+        Throws obj1=new Throws();
         obj1.Vote(1);
         System.out.println("End of the Program");
     }
